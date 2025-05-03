@@ -19,5 +19,5 @@ int main()
     printf("--------------------------------------------\n");
 
     printf("Exemplo de overflow da variavel: %d ", 654888888888892333333333333943058348530632); // test de buffer overflow
-    printf("Ola!");
+    
 }
